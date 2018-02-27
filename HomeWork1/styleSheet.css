@@ -1,0 +1,198 @@
+
+#student{
+	background-color: black;
+	color:white;
+	border:solid 1px white;
+	font-size: 15px;
+	}
+	#student:hover{
+		background-color:white;
+		color:black;
+	}
+header{
+	margin:-10px;
+	/*opacity:0.9;*/
+}
+.back{
+	margin-top:-70px;
+	margin-right:-80px;
+	margin-left:-20px;
+	height:600px;
+	width:auto;
+	background-image: url("https://s3-us-west-2.amazonaws.com/nycda-assets/posts/hero_images/000/008/676/big/SetApart.jpg?1518812490");
+
+}
+.banner{
+	position:fixed;
+	top:0;
+	width:100%;
+	margin-left:5px;
+	background-color:black;
+	opacity:0.8;
+	color:white;
+	height:70px;
+
+}
+.rightM{
+	float:right;
+	list-style-type: none;
+}
+.rightL{
+	float:left;
+	margin: 5px;
+
+}
+.rightL:hover{
+	color:#dcaf00;
+}
+#leftTop{
+	float:left;
+	list-style-type:none;
+}
+.leftL{
+	/*text-align:center;*/
+	float:left;
+	margin:2px;
+}
+.leftL a{
+	text-decoration:none;
+	color:white;
+}
+#leftCorner{
+	/*position:absolute;
+	top:2px;
+	left:2px;*/
+	padding:1px;
+	margin-left:-30px;
+	margin-top:-10px;
+
+}
+#leftCorner h6{
+	margin:-15px;
+}
+#leftCorner h5{
+	margin-right:10px;
+	margin-left:0px;
+}
+#Academy{
+	float:right;
+}
+#search input{
+	margin-left:80px;
+	height:35px;
+	width:300px;
+	position:absolute;
+	top:100px;
+	left:10px;
+	border:solid 1px black;
+}
+/*#search button{
+	width:35px;
+	height:35px;
+	position:absolute;
+	top:103px;
+	left:400px;
+}*/
+#yellow{
+	background-color:#dcaf00;
+	width:35px;
+	height:35px;
+	position:absolute;
+	top:103px;
+	left:400px;
+}
+#search a{
+	/*background:#dcaf00;*/
+	/*z-index:1;*/
+	width:35px;
+	height:35px;
+	/*position:absolute;
+	top:103px;
+	left:400px;*/
+}
+
+#text1{
+	position:absolute;
+	top:350px;
+	left:20px;
+	color:white;
+}
+#text1 h1{
+	color:#ffcb04;
+	font-size:18px;
+	font-family: "DIN Next W01 Regular, Arial, sans-serif"
+}
+#bracket{
+	float:left;
+	margin-left: -30px;
+}
+#textBlog a{
+	text-decoration:none;
+	color:white;
+}
+#textBlog a:hover{
+	color:#ffcb04;
+}
+.read{
+	text-decoration:none;
+	color:#ffcb04;
+}
+
+
+.blog{
+	float:left;
+	margin:20px;
+	width:350px;
+	height:500px;
+	background-color:#f7f7f7;
+}
+.blog img{
+
+	width:350px;
+	height:200px;
+}
+.blog h6{
+	padding-left:10px;
+}
+#T{
+	padding:5px;
+	text-decoration:none;
+	color:black;
+	font-size:30px;
+}
+.autor{
+	margin-top:-35px;
+	margin:right 10px;
+	padding-right:10px;
+	float:right;
+}
+.read1{
+	text-decoration:none;
+	color:black;
+}
+footer{
+	position: relative;
+}
+.foot{
+	color:white;
+	position:absolute;
+	top:4000px;
+	width:100%;
+	height:300px;
+	background-color:black;
+}
+.uf{
+	float: left;
+	/*border-right: solid 1px white;*/
+	/*position:relative;*/
+	/*top:10px;*/
+}
+.foot li{
+	list-style-type: none;	
+	margin-right:50px;
+	padding-left:10px;
+}
+.foot a{
+	text-decoration: none;
+	color:white;
+}
